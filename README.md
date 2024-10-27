@@ -15,7 +15,7 @@ application locally.
 ### Installation
 1. **Clone the repository**
 bash
-git clone https://github.com/your-username/
+git clone https://github.com/nica19XX-github/spring-boot_20241027.git
 parking-management-system.git
 cd parking-management-system
 
